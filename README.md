@@ -1,23 +1,23 @@
-My First Project
+# My First Project
 
-About
+## About
 
 This is my first GitHub project. I am learning Python Full Stack development and exploring HTML, Git, and GitHub.
 
-Skills I Am Learning
+## Skills I Am Learning
 
-HTML
+-HTML
 
-Python
+-Python
 
-Git
+-Git
 
-GitHub
+-GitHub
 
-Goal
+## Goal
 
 To develop my coding skills and build my own webpages.
 
-Author
+## Author
 
 Soumyasri
